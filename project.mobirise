@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": ".html",
+    "currentPage": "home .html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 167,
     "versionPublish": "4.6.3",
@@ -8927,7 +8927,7 @@
         }
       ]
     },
-    ".html": {
+    "home .html": {
       "settings": {
         "main": true,
         "title": "Campus-Stellae",
