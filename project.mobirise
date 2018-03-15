@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "home .html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 167,
+    "uniqCompNum": 194,
     "versionPublish": "4.6.6",
     "theme": {
       "name": "mobirise4",
@@ -48,7 +48,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Contact",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -691,7 +691,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Credential",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -1504,7 +1504,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Donate",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2046,7 +2046,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "FAQs",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2669,7 +2669,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Stats",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -3379,7 +3379,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Delegates",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3990,7 +3990,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -4555,7 +4555,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Routes",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -5287,7 +5287,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Camino Primitivo",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -5866,7 +5866,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Via de la Plata",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -6504,7 +6504,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Camino del Norte",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -7083,7 +7083,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Camino Frances",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -7662,7 +7662,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "European Routes",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -8300,7 +8300,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Other National Routes",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
